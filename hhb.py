@@ -1,5 +1,5 @@
 #my name: murindanyi sudi
-#regist
+#regis
 
 
 # 1 - Import library
