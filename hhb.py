@@ -1,4 +1,4 @@
-#my nam
+#my na
 
 # 1 - Import library
 import pygame
