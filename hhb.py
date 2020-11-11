@@ -1,6 +1,6 @@
 #my name: murindanyi sudi
 #registration no: 16/x/2338/ps
-#stud
+#stu
 
 # 1 - Import library
 import pygame
