@@ -1,7 +1,7 @@
 #my name: murindanyi sudi
 #registration no: 16/x/2338/ps
 #student no:216002243
-#computer enginee
+#computer engine
 
 # 1 - Import library
 import pygame
