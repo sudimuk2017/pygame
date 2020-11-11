@@ -2,7 +2,6 @@
 #registration no: 16/x/2338/ps
 #student no:216002243
 
-
 # 1 - Import library
 import pygame
 from pygame.locals import *
