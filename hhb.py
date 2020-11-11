@@ -1,4 +1,4 @@
-#
+
 
 # 1 - Import library
 import pygame
