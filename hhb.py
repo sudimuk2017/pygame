@@ -1,4 +1,4 @@
-#my
+#m
 
 # 1 - Import library
 import pygame
