@@ -1,4 +1,4 @@
-#my name: murindany
+#my name: murindan
 
 
 # 1 - Import library
