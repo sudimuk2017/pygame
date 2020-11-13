@@ -1,6 +1,6 @@
 # 1 - Import library
 
-#hdjjdqwdbqwhdbdjh
+#hdjdqwdbqwhdbdjh
 
 import pygame
 from pygame.locals import *
