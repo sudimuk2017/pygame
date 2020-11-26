@@ -1,4 +1,4 @@
-# 1 - Import library mmffg ghgfkvgfktff ffhg gygfygtf yukkgfvg
+# 1 - Import library mmffg ghgfkvgfktff ffhg gygfygtfyukkgfvg
 
 import pygame
 from pygame.locals import *
