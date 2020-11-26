@@ -1,4 +1,4 @@
-# 1 - Import library m
+# 1 - Import library 
 
 import pygame
 from pygame.locals import *
